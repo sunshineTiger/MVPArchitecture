@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPArchitecture</string>
+    <string name="string_loading_hint_text">加载中...</string>
+</resources>
